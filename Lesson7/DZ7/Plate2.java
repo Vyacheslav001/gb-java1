@@ -1,4 +1,4 @@
-package Lesson7.VideoLesson7;
+package Lesson7.DZ7;
 
 import java.util.Scanner;
 

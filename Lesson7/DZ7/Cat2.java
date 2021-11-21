@@ -1,4 +1,4 @@
-package Lesson7.VideoLesson7;
+package Lesson7.DZ7;
 
 public class Cat2 {
     private String name;
